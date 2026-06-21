@@ -1,0 +1,5 @@
+1.desconfiar de enlaces extraños.
+2.no compartir contraseñas.
+3.no repetir claves.
+4.tener copias de seguridad.
+5.tener el software actualizado.

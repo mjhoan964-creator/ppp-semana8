@@ -1,0 +1,8 @@
+prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria:
+
+1.validacion de correos electronicos
+2.no exponer datos personales
+3.usar conexiones seguras
+4.generar copias de seguridad
+5.proteger credenciales
+6.limitar el acceso a información sensible.

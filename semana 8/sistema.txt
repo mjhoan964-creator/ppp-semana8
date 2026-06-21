@@ -1,0 +1,12 @@
+Qué información muestra cada comando: 
+
+1. uname -a: muestra toda la información del sistema de forma detallada.
+2. whoami: muestra el nombre del usuario actual que esta activo en esta consola,
+ en mi caso codespace.
+
+ ¿Por qué es útil conocer información del sistema cuando se administra un servidor?.
+
+Respuesta/ Conocer la información del sistema es fundamental porque permite mantener el 
+servidor estable, seguro y optimizado, permitiendo prevenir fallos antes de que ocurran,
+es clave para diagnosticar errores rapidamente, aplicar parches de seguridad segun la versión
+del software y planificar el crecimiento de los recursos (como disco y memoria) de manera eficiente."
